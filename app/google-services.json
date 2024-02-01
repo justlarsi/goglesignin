@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177582424901",
+    "project_id": "goglesignin-605c8",
+    "storage_bucket": "goglesignin-605c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177582424901:android:a82c189409e49cce39f42c",
+        "android_client_info": {
+          "package_name": "com.example.goglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177582424901-gm2grdmai4jlaccic6recb8qejjd48du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goglesignin",
+            "certificate_hash": "25d7a81c5bfb8c0874d70565ddaaff42309265e1"
+          }
+        },
+        {
+          "client_id": "177582424901-sc0aodsb41rlkkp8eevt6bu9td0a7f40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrL50HrWpK0eRKs38rbg6_Ip4Uz8koP0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177582424901-sc0aodsb41rlkkp8eevt6bu9td0a7f40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
